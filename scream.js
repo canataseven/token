@@ -29,6 +29,6 @@ const scream4 = new Discord.Client();
 const scream5 = new Discord.Client();
 
 
-scream1.login(""NzA4MjUyODM2MzU3NDcyMjY4.XrVa_A.RFA3tvcmll9MJgXhCngwz8BcqoE);
+scream1.login("token buraya");
 scream2.login("token buraya");
 scream3.login("token buraya");
