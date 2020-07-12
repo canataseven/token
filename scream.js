@@ -36,6 +36,12 @@ const scream11 = new Discord.Client();
 const scream12 = new Discord.Client();
 const scream13 = new Discord.Client();
 const scream14 = new Discord.Client();
+const scream15 = new Discord.Client();
+const scream16 = new Discord.Client();
+const scream17 = new Discord.Client();
+const scream18 = new Discord.Client();
+const scream19 = new Discord.Client();
+
 
 scream1.on('message', async msg => {
   if (msg.content.toLowerCase() === "inci") {
@@ -154,6 +160,59 @@ scream13.on('message', async msg => {
   }
 })
 
+scream14.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream15.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream16.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream17.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream18.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream19.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
 
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
@@ -169,4 +228,9 @@ scream11.login("NzMxNjkwNTU5ODgxNzQwMzAx.XwpuIg.RTidmhXmAmn9-CFQdPL0M2xA8a0");
 scream12.login("NzMxNjkxNDUxNzI5MzEzODMz.Xwpu_Q.uJiOHAP3jgGln_B60whdXusKShI");
 scream13.login("NzMxNjkyNDg0MjQ5MjU1OTk3.XwpwBw.L_3WQTehw09C8uaBXijJJcihT3M");
 scream14.login("NzMxNjkzNDYwNTgyNTYzODky.XwpwwQ.CGW9VfpgTBXTatZSLg-AanUOlig");
+scream15.login("NzMxNzA1MDkxMTc4MTAyODM0.Xwp7oA.z5Q3sNH-nIWVRNiQkGwezumj_BU");
+scream16.login("NzMxNzA2NDMzNzk5OTc5MDY4.Xwp88Q.LrO2jEjID-esb6t1tJe-PBAJf2w");
+scream17.login("NzMxNzA3MDMzMjI4NjczMDI1.Xwp9dg.JhDujaRh-GMWN7339oAQ8rSyCvI");
+scream18.login("NzMxNzA4MDEyMTk2MDAzODgw.Xwp-fA.znJLXpVysXWkj2LSnSjYNbnaz1w");
+scream19.login("NzMxNzA5Mzk1MjU5MzU5MjUy.Xwp_9g.jzjBe18I7PpSTGy42MAI0a127IE");
 
