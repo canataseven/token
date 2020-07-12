@@ -47,6 +47,16 @@ const scream22 = new Discord.Client();
 const scream23 = new Discord.Client();
 const scream24 = new Discord.Client();
 const scream25 = new Discord.Client();
+const scream26 = new Discord.Client();
+const scream27 = new Discord.Client();
+const scream28 = new Discord.Client();
+const scream29 = new Discord.Client();
+const scream30 = new Discord.Client();
+const scream31 = new Discord.Client();
+const scream32 = new Discord.Client();
+const scream33 = new Discord.Client();
+const scream34 = new Discord.Client();
+const scream35 = new Discord.Client();
 
 
 
@@ -300,6 +310,16 @@ scream22.login("NzMxNzE3MTc5NzkxMzc2NDQ2.XwqHHA.J8Al09pm559qIOSbB8NwuurmTlM");
 scream23.login("NzMxNzE4NjcxMjQ3OTk5MDM2.XwqImQ.9S54-W4i0ow41_zQzxXLmEjZNMQ");
 scream24.login("NzMxNzIwMDc0MzI2NTczMTA3.XwqJnw.xUnHxGOaMkO6YtNod4yOTMsYj24");
 scream25.login("NzMxNzIxMzIwMjY1Njc4OTgx.XwqKvQ.e2wtmlanS58MUcA8eoBPyxx8iK0");
+scream26.login("NzMxODk1MDA2MDk2MjYxMTkw.Xwss0g.uGpJ_RGqYpF1B20L-DuuZJ78Rjw");
+scream27.login("NzMxODk2NTcxOTU1OTA0NTc0.XwsuKw.WczTEn1feCMm5q9-OPTFp26Ufk4");
+scream28.login("NzMxODk3NjU0NTU2MjI5NjYy.XwsvPg.JTYrlaqXwqUneKzNqBKWA8cVW7o");
+scream29.login("NzMxODk4NTk3Njg3NDI3MTEz.Xwsv7Q.s5zafuphGUK9xlzX08s_J_yuBes");
+scream30.login("NzMxODk5MzI5NDA0NDY5MjQ4.XwswsA.nH1dTsaQ_f1e68OKUwk4Wp5JSIQ");
+scream31.login("NzMxOTAwMjY4MDgxMzE1ODQw.XwsxZw.tjFtZ1H_XIg-6SJ0E2_AfCPxFr0");
+scream32.login("NzMxOTAwOTQ2ODI0ODIyODQ2.XwsyKg.LgEh89LtkJ5X7WUg5z-W2xknP2E");
+scream33.login("NzMxOTAxNTk1NDQ0MzE0MTkz.Xwsy1w.5Io5dYCRPEnT27L80fENxZoQuX4");
+scream34.login("NzMxOTAyNDQ0MDM1ODk5NDg0.Xwszzw.G0aMIyvW-buquVuiUwTezDQPNt8");
+scream35.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
 
 
 
