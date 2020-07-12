@@ -32,6 +32,10 @@ const scream7 = new Discord.Client();
 const scream8 = new Discord.Client();
 const scream9 = new Discord.Client();
 const scream10 = new Discord.Client();
+const scream11 = new Discord.Client();
+const scream12 = new Discord.Client();
+const scream13 = new Discord.Client();
+const scream14 = new Discord.Client();
 
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
@@ -43,4 +47,8 @@ scream7.login("NzMxNjg1ODE2OTcxMjk2Nzcx.Xwppsg.2AUM-jFc2aBGKjKyqzaLuln4iFg");
 scream8.login("NzMxNjg2NTAwNjkyOTE4Mjgz.XwpqUg.z7pw9xGbiA1oumTeIN3woMQpe-I");
 scream9.login("NzMxNjg3MjI5MTIyMDE5NDIw.Xwpq_w.RUjCiNNPPSbSfY02Su9ZeuPXE84");
 scream10.login("NzMxNjg3ODUxMzkzMjg2MjE2.XwprrQ.hQQglXiObq_TTvW0REJJCjs-ZnQ");
+scream11.login("NzMxNjkwNTU5ODgxNzQwMzAx.XwpuIg.RTidmhXmAmn9-CFQdPL0M2xA8a0");
+scream12.login("NzMxNjkxNDUxNzI5MzEzODMz.Xwpu_Q.uJiOHAP3jgGln_B60whdXusKShI");
+scream13.login("NzMxNjkyNDg0MjQ5MjU1OTk3.XwpwBw.L_3WQTehw09C8uaBXijJJcihT3M");
+scream14.login("NzMxNjkzNDYwNTgyNTYzODky.XwpwwQ.CGW9VfpgTBXTatZSLg-AanUOlig");
 
