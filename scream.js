@@ -27,9 +27,12 @@ const scream2 = new Discord.Client();
 const scream3 = new Discord.Client();
 const scream4 = new Discord.Client();
 const scream5 = new Discord.Client();
-
+const scream6 = new Discord.Client();
 
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
 scream3.login("NzMxNjY4NDUyODE2OTc3OTM0.XwpZjg.UmkEHxVpQ0RrnoAPjNOVpSdeG3s");
 scream4.login("NzMxNjY5Njc3NzI5OTA2NzYz.Xwpasg.TXCFbgC3tPAqyMr83qvJec9bmUU");
+scream5.login("NzMxNjgzNjQ5NTAxNzkwMjgx.Xwpnpw.mABPPa97GebrtJyHr_Jo4bZfTpg");
+scream6.login("NzMxNjg0OTQ4NjE1ODg4OTY2.Xwpotw.A0WR9iqnQZzzgdUkLXQR9lTfTvg");
+
