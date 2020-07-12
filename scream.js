@@ -42,7 +42,96 @@ scream1.on('message', async msg => {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
-        const dispatcher = connection.playStream(stream, streamOptions);
+        })
+  }
+})
+
+scream2.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream3.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream4.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream5.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream6.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream7.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream8.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream9.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream10.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream11.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
         })
   }
 })
