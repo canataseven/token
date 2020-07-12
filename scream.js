@@ -38,7 +38,7 @@ const scream13 = new Discord.Client();
 const scream14 = new Discord.Client();
 
 scream1.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci1") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -47,7 +47,7 @@ scream1.on('message', async msg => {
 })
 
 scream2.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci1") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -56,7 +56,7 @@ scream2.on('message', async msg => {
 })
 
 scream3.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci1") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -65,7 +65,7 @@ scream3.on('message', async msg => {
 })
 
 scream4.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci1") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -74,7 +74,7 @@ scream4.on('message', async msg => {
 })
 
 scream5.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci1") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -83,7 +83,7 @@ scream5.on('message', async msg => {
 })
 
 scream6.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci2") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -92,7 +92,7 @@ scream6.on('message', async msg => {
 })
 
 scream7.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci2") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -101,7 +101,7 @@ scream7.on('message', async msg => {
 })
 
 scream8.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci2") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -110,7 +110,7 @@ scream8.on('message', async msg => {
 })
 
 scream9.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci2") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -119,7 +119,7 @@ scream9.on('message', async msg => {
 })
 
 scream10.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci2") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -128,7 +128,7 @@ scream10.on('message', async msg => {
 })
 
 scream11.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci3") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -137,7 +137,7 @@ scream11.on('message', async msg => {
 })
 
 scream12.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci3") {
+  if (msg.content.toLowerCase() === "inci") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
