@@ -285,6 +285,96 @@ scream25.on('message', async msg => {
   }
 })
 
+scream26.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream27.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream28.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream29.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream30.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream31.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream32.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream33.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream34.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream35.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
 scream3.login("NzMxNjY4NDUyODE2OTc3OTM0.XwpZjg.UmkEHxVpQ0RrnoAPjNOVpSdeG3s");
