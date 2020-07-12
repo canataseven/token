@@ -29,6 +29,7 @@ const scream4 = new Discord.Client();
 const scream5 = new Discord.Client();
 
 
-scream1.login("token buraya");
-scream2.login("token buraya");
-scream3.login("token buraya");
+scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
+scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
+scream3.login("NzMxNjY4NDUyODE2OTc3OTM0.XwpZjg.UmkEHxVpQ0RrnoAPjNOVpSdeG3s");
+scream4.login("NzMxNjY5Njc3NzI5OTA2NzYz.Xwpasg.TXCFbgC3tPAqyMr83qvJec9bmUU");
