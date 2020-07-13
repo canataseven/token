@@ -375,6 +375,51 @@ scream35.on('message', async msg => {
   }
 })
 
+scream36.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream35.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream35.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream35.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream35.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
 scream3.login("NzMxNjY4NDUyODE2OTc3OTM0.XwpZjg.UmkEHxVpQ0RrnoAPjNOVpSdeG3s");
@@ -410,6 +455,11 @@ scream32.login("NzMxOTAwOTQ2ODI0ODIyODQ2.XwsyKg.LgEh89LtkJ5X7WUg5z-W2xknP2E");
 scream33.login("NzMxOTAxNTk1NDQ0MzE0MTkz.Xwsy1w.5Io5dYCRPEnT27L80fENxZoQuX4");
 scream34.login("NzMxOTAyNDQ0MDM1ODk5NDg0.Xwszzw.G0aMIyvW-buquVuiUwTezDQPNt8");
 scream35.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
-
+scream36.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
+scream37.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
+scream38.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
+scream39.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
+scream40.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
+scream41.login("NzMxOTAzODAzMTEyMDMwMjM5.Xws1fw.sdcvLqqKfFbSlkvgIL72KtbeihM");
 
 
