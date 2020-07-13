@@ -63,6 +63,9 @@ const scream38 = new Discord.Client();
 const scream39 = new Discord.Client();
 const scream40 = new Discord.Client();
 const scream41 = new Discord.Client();
+const scream42 = new Discord.Client();
+const scream43 = new Discord.Client();
+const scream44 = new Discord.Client();
 
 
 
@@ -435,6 +438,33 @@ scream41.on('message', async msg => {
   }
 })
 
+scream42.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream43.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
+scream44.on('message', async msg => {
+  if (msg.content.toLowerCase() === "inci") {
+      const streamOptions = { seek: 0, volume: 50 };
+      var voiceChannel = msg.member.voiceChannel;
+        voiceChannel.join().then(connection => {
+        })
+  }
+})
+
 scream1.login("NzMxNjU4ODcyMzU1NDIyMzMx.XwpQyg.YKxwBJ9i1sLjJB1dHYG6Y-fSpEk");
 scream2.login("NzMxNjY3NzAyNDM4OTUyOTcw.XwpY2w.kKaINGgq-TAji3knQBR8eLUGPc8");
 scream3.login("NzMxNjY4NDUyODE2OTc3OTM0.XwpZjg.UmkEHxVpQ0RrnoAPjNOVpSdeG3s");
@@ -476,5 +506,8 @@ scream38.login("NzMyMDYzMjI1Njc1MjUxNzIz.XwvJ6w.mN540sIQqipKqcAx_z1D58fq1-A");
 scream39.login("NzMyMDY2MDk1OTQ2NjYxOTA5.XwvLsA.DCUzyWTr7snAmP5DIUrbhPGCNWQ");
 scream40.login("NzMyMDY2NTgzMTczNzkxNzU0.XwvMyw.a16rUrFQiORPa-zsvg5Yreohbhc");
 scream41.login("NzMyMDY3Nzk4ODM4MTQ5MTM5.XwvN1A.8Ao37yBQRMLyJUjgo4BXhaKFW48");
+scream42.login("NzMyMDczOTUwNzkxNzI5MTcz.XwvTVA.MAfA-pZYzjUBlO55P2sTBP0sm0o");
+scream43.login("NzMyMDc3ODAwMjE0ODg4NDUx.XwvXOQ.y0k4kcCsdEG7nS30q3hX8vIg1qU");
+scream44.login("NzMyMDc5MDUwMDc1NjY4NTQy.Xwva8w.v2zPCTyJCdXaRqfXxIOxYCrT4Vc");
 
 
