@@ -81,7 +81,7 @@ const scream55 = new Discord.Client();
 
 
 scream1.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -90,7 +90,7 @@ scream1.on('message', async msg => {
 })
 
 scream2.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -99,7 +99,7 @@ scream2.on('message', async msg => {
 })
 
 scream3.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -108,7 +108,7 @@ scream3.on('message', async msg => {
 })
 
 scream4.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -117,7 +117,7 @@ scream4.on('message', async msg => {
 })
 
 scream5.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -126,7 +126,7 @@ scream5.on('message', async msg => {
 })
 
 scream6.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -135,7 +135,7 @@ scream6.on('message', async msg => {
 })
 
 scream7.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -144,7 +144,7 @@ scream7.on('message', async msg => {
 })
 
 scream8.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -153,7 +153,7 @@ scream8.on('message', async msg => {
 })
 
 scream9.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -162,7 +162,7 @@ scream9.on('message', async msg => {
 })
 
 scream10.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -171,7 +171,7 @@ scream10.on('message', async msg => {
 })
 
 scream11.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -180,7 +180,7 @@ scream11.on('message', async msg => {
 })
 
 scream12.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -189,7 +189,7 @@ scream12.on('message', async msg => {
 })
 
 scream13.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -198,7 +198,7 @@ scream13.on('message', async msg => {
 })
 
 scream14.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -207,7 +207,7 @@ scream14.on('message', async msg => {
 })
 
 scream15.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -216,7 +216,7 @@ scream15.on('message', async msg => {
 })
 
 scream16.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -225,7 +225,7 @@ scream16.on('message', async msg => {
 })
 
 scream17.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -234,7 +234,7 @@ scream17.on('message', async msg => {
 })
 
 scream18.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -243,7 +243,7 @@ scream18.on('message', async msg => {
 })
 
 scream19.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -252,7 +252,7 @@ scream19.on('message', async msg => {
 })
 
 scream20.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -261,7 +261,7 @@ scream20.on('message', async msg => {
 })
 
 scream21.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -270,7 +270,7 @@ scream21.on('message', async msg => {
 })
 
 scream22.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -279,7 +279,7 @@ scream22.on('message', async msg => {
 })
 
 scream23.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -288,7 +288,7 @@ scream23.on('message', async msg => {
 })
 
 scream24.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -297,7 +297,7 @@ scream24.on('message', async msg => {
 })
 
 scream25.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -306,7 +306,7 @@ scream25.on('message', async msg => {
 })
 
 scream26.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -315,7 +315,7 @@ scream26.on('message', async msg => {
 })
 
 scream27.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -324,7 +324,7 @@ scream27.on('message', async msg => {
 })
 
 scream28.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -333,7 +333,7 @@ scream28.on('message', async msg => {
 })
 
 scream29.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -342,7 +342,7 @@ scream29.on('message', async msg => {
 })
 
 scream30.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -351,7 +351,7 @@ scream30.on('message', async msg => {
 })
 
 scream31.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -360,7 +360,7 @@ scream31.on('message', async msg => {
 })
 
 scream32.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -369,7 +369,7 @@ scream32.on('message', async msg => {
 })
 
 scream33.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -378,7 +378,7 @@ scream33.on('message', async msg => {
 })
 
 scream34.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -387,7 +387,7 @@ scream34.on('message', async msg => {
 })
 
 scream35.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -396,7 +396,7 @@ scream35.on('message', async msg => {
 })
 
 scream36.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -405,7 +405,7 @@ scream36.on('message', async msg => {
 })
 
 scream37.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -414,7 +414,7 @@ scream37.on('message', async msg => {
 })
 
 scream38.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -423,7 +423,7 @@ scream38.on('message', async msg => {
 })
 
 scream39.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -432,7 +432,7 @@ scream39.on('message', async msg => {
 })
 
 scream40.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -441,7 +441,7 @@ scream40.on('message', async msg => {
 })
 
 scream41.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -450,7 +450,7 @@ scream41.on('message', async msg => {
 })
 
 scream42.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -459,7 +459,7 @@ scream42.on('message', async msg => {
 })
 
 scream43.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -468,7 +468,7 @@ scream43.on('message', async msg => {
 })
 
 scream44.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -477,7 +477,7 @@ scream44.on('message', async msg => {
 })
 
 scream45.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -486,7 +486,7 @@ scream45.on('message', async msg => {
 })
 
 scream46.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -495,7 +495,7 @@ scream46.on('message', async msg => {
 })
 
 scream47.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -504,7 +504,7 @@ scream47.on('message', async msg => {
 })
 
 scream48.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -513,7 +513,7 @@ scream48.on('message', async msg => {
 })
 
 scream49.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -522,7 +522,7 @@ scream49.on('message', async msg => {
 })
 
 scream50.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -531,7 +531,7 @@ scream50.on('message', async msg => {
 })
 
 scream51.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -540,7 +540,7 @@ scream51.on('message', async msg => {
 })
 
 scream52.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -549,7 +549,7 @@ scream52.on('message', async msg => {
 })
 
 scream53.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -558,7 +558,7 @@ scream53.on('message', async msg => {
 })
 
 scream54.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
@@ -567,7 +567,7 @@ scream54.on('message', async msg => {
 })
 
 scream55.on('message', async msg => {
-  if (msg.content.toLowerCase() === "inci") {
+  if (msg.content.toLowerCase() === "ömer") {
       const streamOptions = { seek: 0, volume: 50 };
       var voiceChannel = msg.member.voiceChannel;
         voiceChannel.join().then(connection => {
