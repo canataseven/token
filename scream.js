@@ -577,11 +577,11 @@ scream55.on('message', async msg => {
 
 // Sector Tokenler
 /////////////////////////////////////////////////////////////////////////////////
-scream1.login("NzM4OTQ3ODQyODI3MjIzMDcw.XyTVyQ.f8wvHQR8QWWLLDJSyqZM2xka6CU");///
-scream2.login("NzM4OTQ5MTQ1NTQ0NjIyMTIx.XyTWKw.zzk0Pj7v3gisWnmMp-12gq_N-M0");///
-scream3.login("NzM4OTQ5NzA3MDk5MDEzMTUy.XyTXKw.q5_BhTME8ZCx1ZfhR2xCS1Y60ow");///
-scream4.login("NzM4OTUwNTg5NDIwOTI5MTg1.XyTX5w.C_y9OCdKIM4ZJY9rLSgTWqot0ys");///
-scream5.login("NzM4OTUxNDgyNTQ3NjM0MTg5.XyTYwQ.2lcgFnajYaqeMrjLLurjzdCW0aI");///
+scream1.login("ODQ1NTI4MDg4MzM5MTUyODk2.YKiRpA.1STAOFfc8h1MOa8sMWsEHAqZmJI");///
+scream2.login("ODQ1NTI3OTc1OTQ3NDAzMjY0.YKiRmw.zvhUAcLmwJq6jOesssXkFJmfMsg");///
+scream3.login("ODQ1NTI4MDEzOTE4Njk5NTIx.YKiRlA.0xSSPDVjCN2qHn8kqA3gvX1yZnI");///
+scream4.login("ODQ1NTI3OTU5MDg2OTU2NjA0.YKiRiQ.hK_j0YtxZpU_tr-PXXTF5CKDMHQ");///
+scream5.login("ODQ1NTI3OTI3NzY3OTU3NTQ0.YKiRhg.oOwj8qv7B6H9Jq-3yb1H-LrUAes");///
 scream6.login("NzM4OTUyMzQ2MzY4NzM3MzAw.XyTZag.33hGUk4IEmtS2Ks1qq-TS_TDjKk");///
 scream7.login("NzM4OTUzMDgxMzMyNDMzMDE2.XyTaRQ.CD6cHVztlJLU1sCUXyrsJZLC_yA");///
 scream8.login("NzM4OTU1Nzc0NjQxOTYzMDg4.XyTckQ.Tk8O8J0WBGG6ZvCe-ghpiWCo-PY");///
